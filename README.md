@@ -1,41 +1,34 @@
-📖 Intelligent Document Q&A with Gemini
+# 📖 Intelligent Document Q&A with Gemini
 
 A Retrieval-Augmented Generation (RAG) system that extracts insights from your uploaded documents, blends them with Gemini’s knowledge, and delivers accurate, context-aware responses instantly.
 
-🚀 Features
 
-📂 Upload Documents – Easily upload PDFs for instant analysis.
+## 🚀 Features
 
-🔎 RAG-powered Retrieval – Extracts relevant chunks from your documents.
+* 📂 **Upload Documents** – Easily upload PDFs for instant analysis.  
+* 🔎 **RAG-powered Retrieval** – Extracts relevant chunks from your documents.  
+* 🤖 **Gemini Integration** – Combines retrieved insights with Gemini’s vast knowledge.  
+* 💬 **Interactive Q&A** – Ask questions in natural language and get precise answers.  
+* ⚡ **Context-Aware Responses** – Answers are grounded in both your data and Gemini’s intelligence.  
 
-🤖 Gemini Integration – Combines retrieved insights with Gemini’s vast knowledge.
 
-💬 Interactive Q&A – Ask questions in natural language and get precise answers.
+## 🛠 Tech Stack
 
-⚡ Context-Aware Responses – Answers are grounded in both your data and Gemini’s intelligence.
+* **Frontend:** Streamlit  
+* **Backend:** LangChain + Gemini API  
+* **Vector Database:** ChromaDB  
+* **Embeddings:** Google Generative AI Embeddings  
 
-🛠 Tech Stack
 
-Frontend: Streamlit
+## 📌 Use Cases
 
-Backend: LangChain + Gemini API
+* 📑 Research Paper Summarization  
+* 🏢 Business Report Analysis  
+* 🎓 Academic Study Aid  
+* ⚖ Legal & Compliance Document Review  
+* 💡 Knowledge Discovery from Private Data
 
-Vector Database: ChromaDB
 
-Embeddings: Google Generative AI Embeddings
+**SCREENSHOTS**
 
-📌 Use Cases
-
-📑 Research Paper Summarization
-
-🏢 Business Report Analysis
-
-🎓 Academic Study Aid
-
-⚖ Legal & Compliance Document Review
-
-💡 Knowledge Discovery from Private Data
-
-**SCREENSHOT**
-
-<img width="997" height="802" alt="image" src="https://github.com/user-attachments/assets/11bd566f-c945-43a6-8ebb-4495b3a69d69" />
+<img width="968" height="801" alt="image" src="https://github.com/user-attachments/assets/1a429bd7-0d5f-4599-ace4-e258565e2605" />
