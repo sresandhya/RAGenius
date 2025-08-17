@@ -28,6 +28,11 @@ A Retrieval-Augmented Generation (RAG) system that extracts insights from your u
 * ⚖ Legal & Compliance Document Review  
 * 💡 Knowledge Discovery from Private Data
 
+**WORKFLOW**
+
+<img width="822" height="484" alt="image" src="https://github.com/user-attachments/assets/2bbda222-2b72-4e20-9d1b-8405936c468d" />
+
+
 
 **SCREENSHOTS**
 
